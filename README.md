@@ -73,7 +73,8 @@ An interactive web-based escape room game designed to simulate the placement pro
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/escape-room-placement-cell.git
+git clone https://github.com/Daksha003/escape-room-placement-cell.git
+
 cd escape-room-placement-cell
 ```
 
